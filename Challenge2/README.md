@@ -12,11 +12,18 @@ The code allows for a particular data key to be retrieved individually. For solu
 
 To run this program we need AWS EC2 Instance, where we should run below snippet (python3 by default present in Linux Machines)
 
-.. code-block:: pyrun
-
+```
     python3  ec2-metadata.py
+```
 
 Will give you metadata of EC2 Instance as below:
+
+
+<img src="MetadataJSON.jpeg" alt="hi" class="inline"/>
+
+<img src="MetadataOptions.jpeg" alt="hi" class="inline"/>
+
+<img src="MetadataIndex.jpeg" alt="hi" class="inline"/>
 
 .. image:: https://github.com/aditya2011/OTC/blob/main/Challenge2/MetadataJSON.jpeg
 
