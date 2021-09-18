@@ -1,5 +1,8 @@
 # OTC
 OTC contains three Repositories, which having its solution respectively:
-Challenge1
-Challenge2
-Challenge3
+
+1. Challenge1
+
+2. Challenge2
+
+3. Challenge3
