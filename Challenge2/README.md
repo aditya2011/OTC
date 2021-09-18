@@ -19,15 +19,12 @@ To run this program we need AWS EC2 Instance, where we should run below snippet 
 Will give you metadata of EC2 Instance as below:
 
 
-<img src="MetadataJSON.jpeg" alt="hi" class="inline"/>
+<img src="MetadataJSON.jpeg" alt="MetadataJSON" class="inline"/>
 
-<img src="MetadataOptions.jpeg" alt="hi" class="inline"/>
+As well for Retrieve Data key individually
+
+<img src="MetadataOptions.jpeg" alt="MetadataOptions" class="inline"/>
+
+For Retrieving Data, need to give the index or option from the MetaData List
 
 <img src="MetadataIndex.jpeg" alt="hi" class="inline"/>
-
-.. image:: https://github.com/aditya2011/OTC/blob/main/Challenge2/MetadataJSON.jpeg
-
-.. image:: https://github.com/aditya2011/OTC/blob/main/Challenge2/MetadataOptions.jpeg
-
-.. image:: https://github.com/aditya2011/OTC/blob/main/Challenge2/MetadataIndex.jpeg
-
