@@ -13,7 +13,7 @@ The code allows for a particular data key to be retrieved individually. For solu
 To run this program we need AWS EC2 Instance, where we should run below snippet (python3 by default present in Linux Machines)
 
 ```
-    python3  ec2-metadata.py
+python3  ec2-metadata.py
 ```
 
 Will give you metadata of EC2 Instance as below:
