@@ -32,22 +32,22 @@ python3  nestedobj.py
 
 **Tests**
 
-1. First Test:
+**1. First Test:**
 
 ```
 inputstring = {“a”:{“b”:{“c”:”d”}}}
 ```
 
-**Output**
+Output:
 
 Key -> a/b/c, Value -> d
 
-2. Second Test:
+**2. Second Test:**
 
 ```
 inputstring = {"x":{"y":{"z":"a"}}}
 ```
 
-**Output**
+Output:
 
 Key -> x/y/z, Value -> a
