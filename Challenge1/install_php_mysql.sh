@@ -7,7 +7,8 @@ sudo yum install httpd -y
 service start httpd
 yum install git -y
 cd /var/www/html/
-git clone https://github.com/phpcodelogin
+## here just for example I have taken phpcode, it can be any other app server and we can connect with the database accordingly
+git clone https://github.com/phpcode
 cd phpcodelogin/
 mv * /var/www/html/
 yum install wget -y
@@ -17,4 +18,6 @@ service mysqld restart
 systemctl restart httpd
 cd /var/www/html/
 
-mysql -h hostname -u tamizh -pmypassword -D wordpress_db < table.sql
+# We can connect with mysql or any other database which is required to connect our backend application.
+
+# mysql -h hostname -u username -pmypassword -D wordpress_db < table.sql
